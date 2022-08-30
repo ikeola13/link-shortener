@@ -1,0 +1,25 @@
+.search {
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.urls {
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.loaderBox{
+     margin: 0 auto;
+     text-align: center;
+     margin-top: 20px;
+}
+.loader {
+    width: 50px;
+}
+.tableHead {
+    background-color: black !important;
+    color: white !important;
+}
+.tableHeadText {
+    color: white !important;
+}
